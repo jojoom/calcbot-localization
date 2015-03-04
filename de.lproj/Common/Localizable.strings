@@ -1,90 +1,121 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-  <dict>
+@@ -5,13 +5,13 @@
     <key>%@d</key>
     <string>%@d</string>
     <key>%d days</key>
     <string>%d days</string>
+    <string>%d Tage</string>
     <key>%d hours</key>
     <string>%d hours</string>
+    <string>%d Stunden</string>
     <key>%d minutes</key>
     <string>%d minutes</string>
+    <string>%d Minuten</string>
     <key>%d seconds</key>
     <string>%d seconds</string>
+    <string>%d Sekunden</string>
     <key>%dd</key>
     <string>%dd</string>
     <key>%dh</key>
-    <string>%dh</string>
-    <key>%dm</key>
-    <string>%dm</string>
+@@ -21,70 +21,69 @@
     <key>%ds</key>
     <string>%ds</string>
     <key>1 day</key>
     <string>1 day</string>
+    <string>1 Tag</string>
     <key>1 hour</key>
     <string>1 hour</string>
+    <string>1 Stunde</string>
     <key>1 minute</key>
     <string>1 minute</string>
+    <string>1 Minute</string>
     <key>1 second</key>
     <string>1 second</string>
+    <string>1 Sekunde</string>
     <key>About</key>
     <string>About</string>
+    <string>Über</string>
     <key>Cancel</key>
     <string>Cancel</string>
+    <string>Abbrechen</string>
     <key>Cancelled</key>
     <string>Cancelled</string>
+    <string>Abgebrochen</string>
     <key>Close</key>
     <string>Close</string>
+    <string>Schließen</string>
     <key>Couldn’t parse JSON data.</key>
     <string>Couldn’t parse JSON data.</string>
+    <string>Konnte die JSON-Dateien nicht verarbeiten</string>
     <key>Dumb Quotes</key>
     <string>Dumb Quotes</string>
+    <string>Dummes Zitat</string>
     <key>FOLLOW US ON TWITTER</key>
     <string>FOLLOW US ON TWITTER</string>
+    <string>Folge uns auf Twitter</string>
     <key>Invalid Data</key>
     <string>Invalid Data</string>
+    <string>Ungültige Daten</string>
     <key>Leave %@?</key>
     <string>Leave %@?</string>
+    <string>Verlasse %@?</string>
     <key>Network Connection Busy</key>
     <string>Network Connection Busy</string>
+    <string>Netwerkverbindung beschäftigt</string>
     <key>Now</key>
     <string>Now</string>
+    <string>Jetzt</string>
     <key>OFF</key>
     <string>OFF</string>
+    <string>Aus</string>
     <key>ON</key>
     <string>ON</string>
+    <string>An</string>
     <key>OTHER APPS</key>
     <string>OTHER APPS</string>
+    <string>Andere APPS</string>
     <key>Open</key>
     <string>Open</string>
+    <string>Öffnen</string>
     <key>Over 1 year</key>
     <string>Over 1 year</string>
+    <string>Über 1 Jahr</string>
     <key>Please try again later.</key>
     <string>Please try again later.</string>
+    <string>Versuchen Sie es bitte später noch einmal.</string>
     <key>Privacy Policy</key>
     <string>Privacy Policy</string>
+    <string>Datenschutzerklärung</string>
     <key>Request Timed Out</key>
     <string>Request Timed Out</string>
+    <string>Beantrage Auszeit</string>
     <key>Review %@ on iTunes</key>
     <string>Review %@ on iTunes</string>
+    <string>Hinterlasse ein Review für %@ auf iTunes</string>
     <key>Smart Quotes</key>
     <string>Smart Quotes</string>
+    <string>Schlaues Zitat</string>
     <key>The link is requesting to open an external application. Would you like to continue?</key>
     <string>The link is requesting to open an external application. Would you like to continue?</string>
+    <string>Der Link möchte in einer externen Applikation geöffnet werden. Möchten Sie fortfahren?</string>
     <key>Today at %@</key>
     <string>Today at %@</string>
+    <string>Heute um %@</string>
     <key>Unknown Error.</key>
     <string>Unknown Error.</string>
+    <string>Unbekannter Fehler</string>
     <key>We are a tiny two-person company (sometimes three) that loves creating exceptional apps for iOS and the Mac.
 Paul codes in Texas and Mark designs in California.</key>
     <string>We are a tiny two-person company (sometimes three) that loves creating exceptional apps for iOS and the Mac.
 Paul codes in Texas and Mark designs in California.</string>
+    <string>Wir sind eine kleine zwei Personen (manchmal auch drei) Firma, die es liebt besondere Apps für iOS und den Mac zu kreieren. </string>
     <key>Which account do you want to follow %@ with?</key>
     <string>Which account do you want to follow %@ with?</string>
+    <string>Mit welchem Account möchtest du %@ folgen?</string>
     <key>Yesterday at %@</key>
     <string>Yesterday at %@</string>
+    <string>Gestern um %@</string>
     <key>Calcbot Preferences</key>
     <string>Calcbot Preferences</string>
+    <string>Calcbot Einstellungen</string>
   </dict>
 </plist>
